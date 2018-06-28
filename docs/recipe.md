@@ -5,6 +5,8 @@
 |   | 3 | 2 |   |   |   |   |   |   |   | brain food | abra      | 4 |
 | 2 | 3 |   |   |   |   |   |   |   |   | blue soda  | goldeen   | 1 |
 | 2 | 3 |   |   |   |   |   |   |   |   | blue soda  | tentacool | 1 |
+|   | 1 |   |   |   | 1 | 3 |   |   |   | blue soda  |           |   |
 |   |   | 3 | 1 |   |   | 1 |   |   |   | stone soup | onix      | 2 |
+|   |   | 2 | 3 |   |   |   |   |   |   | stone soup | geodude   | 3 |
 |   |   | 2 | 3 |   |   |   |   |   |   | stone soup | rhyhorn   | 2 |
-|   |   | 2 | 3 |   |   |   |   |   |   | stone soup | geodude   | 1 |
+| 1 |   | 1 | 3 |   |   |   |   |   |   | stone soup | geodude   | 2 |
