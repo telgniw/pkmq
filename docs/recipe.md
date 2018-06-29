@@ -15,4 +15,5 @@
 | 2 | 2 |   |   |   |   |   | 1 |   |   | get swole syrup    | machop     | 4 | 2 |
 | 2 | 2 |   |   |   |   |   | 1 |   |   | get swole syrup    | hitmonchan | 1 |   |
 |   | 2 | 1 |   |   |   |   | 2 |   |   | honey nectar       | paras      | 1 |   |
-| 1 |   | 3 |   |   | 1 |   |   |   |   |                    |            |   |   |
+| 1 |   | 3 |   |   | 1 |   |   |   |   | veggie smoothie    | paras      | 1 |   |
+| 4 |   |   | 1 |   |   |   |   |   |   | red stew           | vulpix     | 1 |   |
