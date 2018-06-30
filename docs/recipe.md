@@ -12,7 +12,7 @@
 |   |   | 2 | 3 |   |   |   |   |   |   | stone soup         | geodude    |  3 |   |
 |   |   | 2 | 3 |   |   |   |   |   |   | stone soup         | rhyhorn    |  2 |   |
 | 1 |   | 1 | 3 |   |   |   |   |   |   | stone soup         | geodude    |  3 |   |
-| 2 | 2 |   |   |   |   |   | 1 |   |   | get swole syrup    | machop     | 11 | 2 |
+| 2 | 2 |   |   |   |   |   | 1 |   |   | get swole syrup    | machop     | 12 | 2 |
 | 2 | 2 |   |   |   |   |   | 1 |   |   | get swole syrup    | hitmonchan |  1 |   |
 |   | 2 | 1 |   |   |   |   | 2 |   |   | honey nectar       | paras      |  1 |   |
 | 1 |   | 3 |   |   | 1 |   |   |   |   | veggie smoothie    | paras      |  1 |   |
