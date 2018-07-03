@@ -27,3 +27,4 @@
 |   |   | 1 | 4 |   |   |   |   |   |   | gray porridge      | nidoran♀   |  2 | 1 | 1 |
 |   |   | 4 | 1 |   |   |   |   |   |   | yellow curry       | moewth     |  1 |   |   |
 |   |   | 4 | 1 |   |   |   |   |   |   | yellow curry       | sandshrew  |  1 |   |   |
+|   | 2 |   | 2 |   |   |   | 1 |   |   | plain crepe        | doduo      |  1 |   |   |
