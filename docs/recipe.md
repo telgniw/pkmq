@@ -9,7 +9,7 @@
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | staryu     |  3 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | krabby     |  2 |   |   |
 | 1 | 3 |   | 1 |   |   |   |   |   |   | mouth-watering dip | goldeen    |  3 |   |   |
-| 1 | 3 |   | 1 |   |   |   |   |   |   | mouth-watering dip | tentacool  |  1 |   |   |
+| 1 | 3 |   | 1 |   |   |   |   |   |   | mouth-watering dip | tentacool  |  2 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | staryu     |  1 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | psyduck    |  1 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | krabby     |  1 |   |   |
