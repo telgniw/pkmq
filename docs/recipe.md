@@ -3,10 +3,11 @@
 | r | b | y | k | - | R | B | Y | K | * | Recipe             | Pokemon    |  # | # | # |
 |---|---|---|---|---|---|---|---|---|---|--------------------|------------|----|---|---|
 |   | 3 | 2 |   |   |   |   |   |   |   | brain food         | abra       |  4 |   |   |
-| 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | goldeen    |  5 |   |   |
+| 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | goldeen    |  8 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | poliwag    |  5 |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | tentacool  |  4 |   |   |
-| 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | staryu     |  3 |   |   |
+| 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | staryu     |  4 |   |   |
+| 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | psyduck    |    |   |   |
 | 2 | 3 |   |   |   |   |   |   |   |   | mouth-watering dip | krabby     |  2 |   |   |
 |   | 3 | 1 |   |   | 1 |   |   |   |   | mouth-watering dip | slowpoke   |  1 |   |   |
 |   | 3 | 1 |   |   | 1 |   |   |   |   | mouth-watering dip | horsea     |  1 |   |   |
